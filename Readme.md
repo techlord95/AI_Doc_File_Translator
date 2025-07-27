@@ -1,14 +1,15 @@
 # Advanced Doc File Translator
 
-It started as an idea for my internship at PwC India and now it is a full fledged project, I worked on it for months but the upper management was happy with their employees doing manual translations, this tool is fully open source and it aims to help reduce the manual workload and save counteless of hours give it a star ⭐ if it helps you.
-A modern, full-featured web application for translating DOCX and PDF documents into multiple languages, preserving formatting, lists, and structure. Powered by advanced LLM APIs (Google Gemini, Groq), with support for document summarization and PDF-to-Word conversion.
+- A modern, full-featured web application for translating DOCX and PDF documents into multiple languages, preserving formatting, lists, and structure. Powered by advanced LLM APIs (Google Gemini, Groq), with support for document summarization and PDF-to-Word conversion.
+
+- It started as an idea for my internship at PwC India and now it is a full fledged project, I worked on it for months but the upper management was happy with their employees doing manual translations, this tool aims to reduce the manual workload and save countless of hours, give it a star ⭐ if it helps you.
 
 ---
 
 ## Features
 
-- **Translate DOCX and PDF files** to a wide range of languages. -
-- **Preserves formatting**: Lists, bullet points, numbering, and text structure are retained.
+- **Translate DOCX and PDF files** to a wide range of languages. -Hindi, Arabic, German, Japanese, Korean
+- **Preserves formatting**: Lists, bullet points, numbering, and text structure, image positioning are retained.
 - **Multiple translation engines**: Choose between Google Gemini and Groq LLMs.
 - **Document summarization**: Generate a concise summary of your document using LLMs.
 - **PDF to DOCX conversion**: Uses `pdf2docx` or `Aspose.PDF` for high-fidelity conversion.*Both work differently choose according to your needs*
@@ -34,8 +35,8 @@ image.png
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/techlord95/doc-translator.git
-cd doc-translator
+git clone https://github.com/techlord95/AI_Doc_File_Translator.git
+cd AI_Doc_File_Translator
 ```
 
 ### 2. Install dependencies
@@ -132,5 +133,7 @@ You may need to install system dependencies for `aspose-pdf` and `pdf2docx` (see
 
 
 ## Acknowledgements
--Cat and Dog videos on the internet (they do make my day)
--God (they might have made this project possible, cause in initial days this project was a lost cause)
+
+- Cat and Dog videos on the internet (they do make my day).
+
+- God (they might have made this project possible, cause in initial days this project was a lost cause).
