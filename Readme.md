@@ -2,7 +2,7 @@
 
 - A modern, full-featured web application for translating DOCX and PDF documents into multiple languages, preserving formatting, lists, and structure. Powered by advanced LLM APIs (Google Gemini, Groq), with support for document summarization and PDF-to-Word conversion.
 
-- It started as an idea for my internship at PwC India and now it is a full fledged project, I worked on it for months but the upper management was happy with their employees doing manual translations, this tool aims to reduce the manual workload and save countless of hours, give it a star ⭐ if it helps you.
+- It started as an idea for my internship  and now it is a full fledged project, I worked on it for months but the upper management was happy with their employees doing manual translations, this tool aims to reduce the manual workload and save countless of hours, give it a star ⭐ if it helps you.
 
 ---
 
@@ -25,7 +25,8 @@
 
 <!-- ![screenshot or gif here, if available] -->
 -**Main Page**
-image.png
+<img width="1897" height="978" alt="image" src="https://github.com/user-attachments/assets/ff06107f-df85-4755-94bd-dcd58895a123" />
+
 
 
 ---
